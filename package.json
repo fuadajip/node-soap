@@ -1,0 +1,26 @@
+{
+  "name": "node-soap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadajip/node-soap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadajip/node-soap/issues"
+  },
+  "homepage": "https://github.com/fuadajip/node-soap#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "soap": "^0.20.0"
+  }
+}
